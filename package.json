@@ -1,0 +1,19 @@
+{
+  "name": "myexcel",
+  "version": "1.0.0",
+  "description": "Simple generator of XLSX files from Javascript",
+  "main": "FileSaver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spaghett1c0de/MyExcel.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spaghett1c0de/MyExcel/issues"
+  },
+  "homepage": "https://github.com/spaghett1c0de/MyExcel#readme"
+}
